@@ -33,7 +33,7 @@ puts "5 skills created"
     subtitle: "Ruby on Rails",
     body: "defeq",
     main_image: "http://placehold.it/600x400",
-    thumb_image: "http://placehod.it/350x150"
+    thumb_image: "http://placehold.it/350x150"
   )
 end
 puts "9 portfolio items created"
